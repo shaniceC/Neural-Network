@@ -2,8 +2,8 @@ import numpy as np
 import math
 from sklearn.model_selection import train_test_split
 
-filename = 'hw_data.txt'
-write_file = 'hw_output.txt'
+filename = 'data.txt'
+write_file = 'output.txt'
 weights_1 = np.array([[0.1, 0.4],
                       [0.3, 0.3],
                       [0.4, 0.2]])
